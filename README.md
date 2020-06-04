@@ -2,7 +2,7 @@
 some basic methods used in timeseries analysis
 
 
-Q1 ---> Moving Averages with even or odd window with plotting
+1 ---> Moving Averages with even or odd window with plotting
 
 
-trial ---> Fitting straight line using method of least squares
+2---> Fitting straight line using method of least squares
